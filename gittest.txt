@@ -1,2 +1,0 @@
-this is a file to test git "mkdir" "git add" and "git status " git commit -m
-
